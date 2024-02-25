@@ -22,7 +22,6 @@ namespace ProjBobcat.Sample
             var app = builder.Build();
 
             app.AddCommands<Program>();
-            app.AddCommands<TestCommand>();
             app.AddCommands<GameLaunchCommands>();
 
             app.Run();

@@ -5,7 +5,7 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<TargetPlatform>x64</TargetPlatform>
+		<PlatformTarget>x64</PlatformTarget>
 		<!--
 		<InvariantGlobalization>true</InvariantGlobalization>
 		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
